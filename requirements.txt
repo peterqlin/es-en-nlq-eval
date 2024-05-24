@@ -1,0 +1,10 @@
+transformers
+torch
+tokenizers
+numpy
+jupyter
+sentencepiece
+sacremoses
+pandas
+nltk
+protobuf
